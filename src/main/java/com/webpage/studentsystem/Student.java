@@ -20,27 +20,27 @@ public class Student {
 		
 	}
 	
-	private void setId(final int id) {
+	public void setId(final int id) {
 		this.id = id;
 	}
 	
-	private int getId() {
+	public int getId() {
 		return this.id;
 	}
 	
-	private void setName(final String name) {
+	public void setName(final String name) {
 		this.name = name;
 	}
 	
-	private String getName() {
+	public String getName() {
 		return this.name;
 	}
 	
-	private void setAddress(final String address) {
+	public void setAddress(final String address) {
 		this.address = address;
 	}
 	
-	private String getAddress() {
+	public String getAddress() {
 		return this.address;
 	}
 }
