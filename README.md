@@ -14,4 +14,10 @@ Creation of a full stack webpage using react and spring boot
 
 ## Database data inserted:
 
-![image](https://github.com/JohnPapachristos/FullStackWebPage/assets/88382457/c41034f1-42aa-442d-a4eb-cb71b0e5f4ae)
+![image](https://github.com/JohnPapachristos/FullStackWebPage/assets/88382457/5f5954b9-5f88-499f-9230-ca15acea7aa1)
+
+
+## Extra feature, displaying all the database content:
+
+![image](https://github.com/JohnPapachristos/FullStackWebPage/assets/88382457/1e54d411-0f30-4618-9b5b-b04bf58866d4)
+
